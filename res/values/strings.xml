@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">BabyWatch</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_baby_watch">BabyWatchActivity</string>
+    <string name="scream_time">Scream time</string>
+    <string name="phone_number">Phone number</string>
+    <string name="configuration_heading">Configuration</string>
+    <string name="sound_detector">Sound detector</string>
+    <string name="amplitudeThreshold">Amplitude Threshold</string>
+    <string name="actionSelector">Action</string>
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+
+</resources>
